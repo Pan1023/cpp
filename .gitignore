@@ -1,0 +1,44 @@
+# ===== Visual Studio 编译产物 =====
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+ipch/
+*.user
+*.aps
+*.suo
+*.obj
+*.enc
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.db
+*.VC.db
+*.VC.VC.db
+*.sdf
+
+# ===== 系统与编辑器 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# ===== 其他 =====
+*.zip
+*.rar
+*.7z
